@@ -1,0 +1,54 @@
+<div id="nav">
+  		<div id="navmenu">
+            <li> <a href="gallery.html" onMouseOver="setMenu('submenup')" 		
+            onMouseOut="clearMenu('submenup')"><span class="style2"><strong>GALLERY</strong></span></a></li>
+            <li> <a href="services.html" onMouseOver="setMenu('submenua')" 
+            onMouseOut="clearMenu('submenua')"><span class="style2"><strong>SERVICES</strong></span></a></li>
+            <li> <a href="media.html"onMouseOver="setMenu('submenuc')" 
+            onMouseOut="clearMenu('submenuc')"><span class="style2"><strong>MEDIA</strong></span></a></li>
+            <li> <a href="about.html"onMouseOver="setMenu('submenun')" 
+            onMouseOut="clearMenu('submenun')"><span class="style2"><strong>ABOUT</strong></span></a></li>
+            <li> <a href="associations.html"onMouseOver="setMenu('submenue')" 
+            onMouseOut="clearMenu('submenue')"><span class="style2"><strong>ASSOCIATIONS</strong></span></a></li>
+        </div>
+        
+        <div id="submenu">	
+            <div id="submenup" onMouseOver="setMenu('submenup')" 
+            onMouseOut="clearMenu('submenup')">
+            <li> <a href="past.html"><span class="style2"><strong>PAST PROJECTS</strong></span></a></li>
+            <li> <a href="present.html"><span class="style2"><strong>PRESENT PROJECTS</strong></span></a></li>
+            </div>	
+        
+        <div id="submenua" onMouseOver="setMenu('submenua')" 		
+        onMouseOut="clearMenu('submenua')">
+       		<li> <a href="residential.html"><span class="style2"><strong>RESIDENTIAL</strong></span></a></li>
+            <li> <a href="commercial.html"><span class="style2"><strong>COMMERCIAL</strong></span></a></li>
+            <li> <a href="dru.html"><span class="style2"><strong>DISASTER RELIEF</strong></span></a></li>
+        </div>	
+        
+        <div id="submenuc" onMouseOver="setMenu('submenuc')" 
+        onMouseOut="clearMenu('submenuc')">
+            
+        </div>	
+        
+        <div id="submenue" onMouseOver="setMenu('submenue')" 
+        onMouseOut="clearMenu('submenue')">
+            
+        </div>	
+        <div id="submenun" onMouseOver="setMenu('submenun')" 
+        onMouseOut="clearMenu('submenun')">
+            <li> <a href="story.html"><span class="style2"><strong>STORY</strong></span></a></li>
+            <li> <a href="team.html"><span class="style2"><strong>TEAM</strong></span></a></li>
+            <li> <a href="sciences.html"><span class="style2"><strong>SCIENCES</strong></span></a></li>
+            <li> <a href="materials.html"><span class="style2"><strong>MATERIALS</strong></span></a></li>
+        </div>	
+        
+        
+        <div id="submenug" onMouseOver="setMenu('submenug')" 
+        onMouseOut="clearMenu('submenug')">
+            
+        </div>
+        </div>
+        </div>      
+
+
